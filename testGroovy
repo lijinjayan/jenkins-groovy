@@ -1,0 +1,20 @@
+node{
+
+stage('build')
+{
+println ("In Build Stage")
+}
+
+
+stage('test')
+{
+println ("In test Stage")
+}
+
+
+tage('deploy')
+{
+println ("In deploy Stage")
+}
+}
+
