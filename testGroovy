@@ -2,7 +2,7 @@ node{
 
 stage('build')
 {
-println ("In Build Stage")
+println ("Building new feature branch")
 }
 
 
