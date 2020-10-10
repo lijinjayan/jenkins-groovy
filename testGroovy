@@ -12,7 +12,7 @@ println ("In test Stage")
 }
 
 
-tage('deploy')
+stage('deploy')
 {
 println ("In deploy Stage")
 }
